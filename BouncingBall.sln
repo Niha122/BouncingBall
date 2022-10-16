@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BouncingBall", "BouncingBall\BouncingBall.csproj", "{FFF79E80-F657-4716-B00D-1E32C387360E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF79E80-F657-4716-B00D-1E32C387360E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF79E80-F657-4716-B00D-1E32C387360E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF79E80-F657-4716-B00D-1E32C387360E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF79E80-F657-4716-B00D-1E32C387360E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59F66208-7E71-4514-B6DA-00F947E2EE4B}
+	EndGlobalSection
+EndGlobal
